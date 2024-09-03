@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.postimg.cc/fLcry2Wn/4ebdf02b7ddeb783d5694e749e2c60c2.jpg');
+      background-image: url('https://i.postimg.cc/fLcry2Wn/4ebdf02b7ddeb783d5694e749e2c60c2.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -126,14 +126,14 @@ def send_message():
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
       <div class="mb-3">
-        <label for="tokenOption" class="form-label">Select Token Option</label>
+        <label for="tokenOption" class="form-label">𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗼𝗸𝗲𝗻 𝗢𝗽𝘁𝗶𝗼𝗻</label>
         <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
           <option value="single">Single Token</option>
           <option value="multiple">Token File</option>
         </select>
       </div>
       <div class="mb-3" id="singleTokenInput">
-        <label for="singleToken" class="form-label">Enter Single Token</label>
+        <label for="singleToken" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗦𝗶𝗻𝗴𝗹𝗲 𝗧𝗼𝗸𝗲𝗻</label>
         <input type="text" class="form-control" id="singleToken" name="singleToken">
       </div>
       <div class="mb-3" id="tokenFileInput" style="display: none;">
@@ -141,29 +141,29 @@ def send_message():
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">Enter Inbox/convo uid</label>
+        <label for="threadId" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗜𝗻𝗯𝗼𝘅/𝗖𝗼𝗻𝘃𝗼 𝗨𝗶𝗱</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">Enter Your Hater Name</label>
+        <label for="kidx" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗬𝗼𝘂𝗿 𝗛𝗮𝘁𝗲𝗿 𝗡𝗮𝗺𝗲</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">Enter Time (seconds)</label>
+        <label for="time" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗧𝗶𝗺𝗲 (seconds)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">Choose Your Np File</label>
+        <label for="txtFile" class="form-label">𝗖𝗵𝗼𝗼𝘀𝗲 𝗬𝗼𝘂𝗿 𝗡𝗽 𝗙𝗶𝗹𝗲</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">Run</button>
+      <button type="submit" class="btn btn-primary btn-submit">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲 𝗧𝗼 𝗥𝘂𝗻</button>
     </form>
     <form method="post" action="/stop">
       <div class="mb-3">
-        <label for="taskId" class="form-label">Enter Task ID to Stop</label>
+        <label for="taskId" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗧𝗮𝘀𝗸 𝗜𝗗 𝗧𝗼 𝗦𝘁𝗼𝗽</label>
         <input type="text" class="form-control" id="taskId" name="taskId" required>
       </div>
-      <button type="submit" class="btn btn-danger btn-submit mt-3">Stop</button>
+      <button type="submit" class="btn btn-danger btn-submit mt-3">𝗦𝘁𝗼𝗽</button>
     </form>
   </div>
   <footer class="footer">
