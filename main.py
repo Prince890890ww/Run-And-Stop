@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.postimg.cc/fLcry2Wn/4ebdf02b7ddeb783d5694e749e2c60c2.jpg);
+      background-image: url('https://i.postimg.cc/fLcry2Wn/4ebdf02b7ddeb783d5694e749e2c60c2.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -149,7 +149,7 @@ def send_message():
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗧𝗶𝗺𝗲 (seconds)</label>
+        <label for="time" class="form-label">𝗘𝗻𝘁𝗲𝗿 𝗧𝗶𝗺𝗲 (𝗦𝗲𝗰𝗼𝗻𝗱𝘀)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
