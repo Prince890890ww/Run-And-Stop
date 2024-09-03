@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ARYAN MULTI CONVO</title>
+  <title>𝐏𝐑||𝐍𝐂𝟑 𝐎𝐍𝐅𝐈𝐑𝐄</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/Y7pSw8n/0619bf4938a774e6cb5f4eea1ce28559.jpg');
+      background-image: url('https://i.postimg.cc/QdwPyr9q/57772fd16b4cafaa6df0e6f540d4cbcc.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">MULTI CONVO</h1>
+    <h1 class="mt-3">𝐒||𝐍𝐆𝐋𝟑 𝐀𝐍𝐃 𝐌𝐔𝐋𝐓|| 𝐂𝐎𝐍𝐕𝐎</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 CODED BY :- ARYAN DON</p>
-    <p> ALWAYS ON FIRE 🔥 <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2024 CODED BY :- PRINCE</p>
+    <p> PRINCE 🎭 ON FIRE 🥳 <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917717655637" class="whatsapp-link">
+      <a href="https://wa.me/+994409445548" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
